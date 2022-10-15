@@ -12,7 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://tesfayeeshetie.com/"><img alt="Website" src="https://raw.githubusercontent.com/Tesfaye-Eshetie/portifolio-website/main/public/images/favicon.ico"></a>
+<a href="https://tesfayeeshetie.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tesfayeeshetie.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tesfaye-eshetie-0945a1204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tesfaye%20Eshetie-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:tesfayeeshetie19@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tesfayeeshetie19@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
