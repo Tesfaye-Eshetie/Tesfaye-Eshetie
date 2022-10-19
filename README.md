@@ -8,6 +8,7 @@
 - 💼 &nbsp; Working as a freelancer for various companies on various projects.
 - 🌱 &nbsp; Learning about the most recent react architecture and UI development.
 - 👯 &nbsp; Eager to work on any project with anyone who is interested.
+📄 &nbsp;Please have a look at my [Résumé](https://tesfayeeshetie.com/Resume_TESFAYE.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,16 +39,16 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br/>
+### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tesfaye-Eshetie&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesfaye-Eshetie&theme=buefy&layout=compact" />
+<p align="center">
+<a href="https://github.com/Tesfaye-Eshetie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tesfaye-Eshetie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tesfaye-Eshetie&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://tesfayeeshetie.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tesfayeeshetie.com-blue?style=flat-square&logo=google-chrome"></a>
