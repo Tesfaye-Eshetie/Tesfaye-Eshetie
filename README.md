@@ -8,7 +8,7 @@
 - 💼 &nbsp; Working as a freelancer for various companies on various projects.
 - 🌱 &nbsp; Learning about the most recent react architecture and UI development.
 - 👯 &nbsp; Eager to work on any project with anyone who is interested.
-📄 &nbsp;Please have a look at my [Résumé](https://tesfayeeshetie.com/Resume_TESFAYE.pdf) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé](https://tesfayeeshetie.com/Resume_TESFAYE.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
